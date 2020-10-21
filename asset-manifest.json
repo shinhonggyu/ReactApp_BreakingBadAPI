@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ReactApp_BreakingBadAPI/static/css/main.52788ced.chunk.css",
+    "main.js": "/ReactApp_BreakingBadAPI/static/js/main.1ced34b8.chunk.js",
+    "main.js.map": "/ReactApp_BreakingBadAPI/static/js/main.1ced34b8.chunk.js.map",
+    "runtime-main.js": "/ReactApp_BreakingBadAPI/static/js/runtime-main.6c80282c.js",
+    "runtime-main.js.map": "/ReactApp_BreakingBadAPI/static/js/runtime-main.6c80282c.js.map",
+    "static/js/2.e00f67e0.chunk.js": "/ReactApp_BreakingBadAPI/static/js/2.e00f67e0.chunk.js",
+    "static/js/2.e00f67e0.chunk.js.map": "/ReactApp_BreakingBadAPI/static/js/2.e00f67e0.chunk.js.map",
+    "index.html": "/ReactApp_BreakingBadAPI/index.html",
+    "precache-manifest.1895acdea8971e6845dad9b201d4873b.js": "/ReactApp_BreakingBadAPI/precache-manifest.1895acdea8971e6845dad9b201d4873b.js",
+    "service-worker.js": "/ReactApp_BreakingBadAPI/service-worker.js",
+    "static/css/main.52788ced.chunk.css.map": "/ReactApp_BreakingBadAPI/static/css/main.52788ced.chunk.css.map",
+    "static/js/2.e00f67e0.chunk.js.LICENSE.txt": "/ReactApp_BreakingBadAPI/static/js/2.e00f67e0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/ReactApp_BreakingBadAPI/static/media/bg.1be2d3a0.jpg",
+    "static/media/logo.png": "/ReactApp_BreakingBadAPI/static/media/logo.3795f66d.png",
+    "static/media/spinner.gif": "/ReactApp_BreakingBadAPI/static/media/spinner.235b9b3e.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c80282c.js",
+    "static/js/2.e00f67e0.chunk.js",
+    "static/css/main.52788ced.chunk.css",
+    "static/js/main.1ced34b8.chunk.js"
+  ]
+}
